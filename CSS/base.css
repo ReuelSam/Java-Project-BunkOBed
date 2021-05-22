@@ -1,0 +1,101 @@
+.root{
+    background-color: #15202b;
+    -fx-background-color: #163043;
+}
+.label{
+    -fx-text-fill: #ffffff;
+}
+/* 15202b */
+#button-main{
+    min-width: 175;
+    min-height: 50;
+    background-color: #7cafc2;
+    -fx-min-width: 175;
+    -fx-min-height: 50;
+    -fx-background-color: #15202b;
+    -fx-text-fill: #ffffff;
+}
+#button-main:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #000000;
+}
+
+#button-exit{
+    min-width: 175;
+    min-height: 50;
+    background-color: #7cafc2;
+    -fx-min-width: 50;
+    -fx-min-height: 25;
+    -fx-background-color: #7a3230;
+    -fx-text-fill: #ffffff;
+}
+#button-exit:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #ab4642;
+    -fx-text-fill: #ffffff;
+}
+
+#button-success{
+    min-width: 175;
+    min-height: 50;
+    background-color: #7cafc2;
+    -fx-min-width: 50;
+    -fx-min-height: 25;
+    -fx-background-color: #5cb85c;
+    -fx-text-fill: #000000;
+}
+#button-success:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #00ba00;
+    -fx-text-fill: #000000;
+}
+
+#button-primary{
+    min-width: 175;
+    min-height: 50;
+    background-color: #7cafc2;
+    -fx-min-width: 50;
+    -fx-min-height: 25;
+    -fx-background-color: #0092bd;
+    -fx-text-fill: #ffffff;
+}
+#button-primary:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #5bc0de;
+    -fx-text-fill: #ffffff;
+}
+
+#button-danger{
+    min-width: 175;
+    min-height: 50;
+    background-color: #7cafc2;
+    -fx-min-width: 50;
+    -fx-min-height: 25;
+    -fx-background-color: #7a3230;
+    -fx-text-fill: #ffffff;
+}
+#button-danger:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #ab4642;
+    -fx-text-fill: #ffffff;
+}
+
+#button-left-menu{
+    min-width: 175;
+    min-height: 50;
+    background-color: #162d40;
+    -fx-min-width: 100;
+    -fx-min-height: 25;
+    -fx-background-color: #163043;
+    -fx-text-fill: #ffffff;
+}
+#button-left-menu:hover{
+    background-color: #7cafc2;
+    -fx-background-color: #15202b; 
+    -fx-text-fill: #ffffff;
+}
+
+.choice-box .label {
+    -fx-text-fill: #000000; 
+}
